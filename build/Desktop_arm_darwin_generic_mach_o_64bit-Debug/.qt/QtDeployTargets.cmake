@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_kr2_test_FILE /Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/kr2_test.app/Contents/MacOS/kr2_test)

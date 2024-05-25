@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+74dda2a5dca01db90de2584b232fc3da CMakeFiles/kr2_test_autogen
+3f8db06878afcb511124dbf2e748af39 kr2_test_autogen/timestamp

@@ -1,0 +1,9 @@
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/kr2_test.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/kr2_test_autogen_timestamp_deps.dir
+/Volumes/RDISK/projects_qt/kr2_test/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/kr2_test_autogen.dir

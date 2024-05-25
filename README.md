@@ -6,4 +6,4 @@
 
 
 
-graphing calculator using framework # QT-creator
+# graphing calculator using framework  QT-creator
